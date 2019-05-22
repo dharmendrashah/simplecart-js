@@ -62,6 +62,7 @@
 
 				// Currencies
 				currencies = {
+					"INR": { code: "INR", symbol: "&#8377", name: "Indian Rupees" },
 					"USD": { code: "USD", symbol: "&#36;", name: "US Dollar" },
 					"AUD": { code: "AUD", symbol: "&#36;", name: "Australian Dollar" },
 					"BRL": { code: "BRL", symbol: "R&#36;", name: "Brazilian Real" },
